@@ -8,7 +8,7 @@ Githubprofile
  
 * 👂 My name is Katherine Torres
 * 👩 Pronouns: Kathe
-* 🔭 I’m currently working on a new project about an application for craft brewers
+* 🔭 I’m currently working 
 * 🌱 I’m currently learning to be QA Engineer
 * 💬 Ask me about Tourism and Hospitality | Freight and Shipping Coordinator | Customer service | Management & Human Resources | QA Engineer.
 * 📫 How to reach me: ¿Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Kathe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katherine-trodriguez/)
