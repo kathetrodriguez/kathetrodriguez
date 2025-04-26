@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Holasoykathe
 Githubprofile
-![Image](https://github.com/user-attachments/assets/886c2d24-ec66-4f96-960a-44fa238c94e7)
+![Image](https://github.com/user-attachments/assets/7d820efa-6f0f-40a1-99ec-05eb3daae223)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherine-trodriguez/)
 
